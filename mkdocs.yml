@@ -1,7 +1,7 @@
-site_name: Automate With Jailbreaks
+site_name: Automate With ChatGPT
 site_description: Converted Word documents, published via MkDocs + GitHub Pages
-site_url: https://AutomateWithJailbreaks.github.io/
-repo_url: https://github.com/AutomateWithJailbreaks/AutomateWithJailbreaks.github.io
+site_url: https://AutomateWithChatGPT.github.io/
+repo_url: https://github.com/AutomateWithChatGPT/AutomateWithChatGPT.github.io
 theme:
   name: material
   features:
@@ -19,5 +19,4 @@ markdown_extensions:
   - footnotes
 plugins:
   - search
-# If you want explicit ordering, add a 'nav:' block later. Without it, MkDocs uses filesystem order.
 docs_dir: docs
