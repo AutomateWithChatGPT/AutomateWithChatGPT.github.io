@@ -21,29 +21,27 @@ plugins:
   - search
 docs_dir: docs
 nav:
-  - 'Welcome': index.md
-  - 'echo-chamber-ai-exploitation': echo-chamber-ai-exploitation.md
-  - 'echo-chamber-explanation-1': echo-chamber-explanation-1.md
-  - 'echo-chamber-explanation': echo-chamber-explanation.md
-  - 'echo-chamber-fraud-games': echo-chamber-fraud-games.md
-  - 'echo-chamber-general-use': echo-chamber-general-use.md
-  - 'echo-chamber-reference-1': echo-chamber-reference-1.md
-  - 'echo-chamber-reference': echo-chamber-reference.md
-  - 'echo-chamber-simulation-batch1-items1-25': echo-chamber-simulation-batch1-items1-25.md
-  - 'echo-chamber-simulation-batch10-items226-250': echo-chamber-simulation-batch10-items226-250.md
-  - 'echo-chamber-simulation-batch2-items26-50': echo-chamber-simulation-batch2-items26-50.md
-  - 'echo-chamber-simulation-batch3-items51-75': echo-chamber-simulation-batch3-items51-75.md
-  - 'echo-chamber-simulation-batch4-items76-100': echo-chamber-simulation-batch4-items76-100.md
-  - 'echo-chamber-simulation-batch5-items101-125': echo-chamber-simulation-batch5-items101-125.md
-  - 'echo-chamber-simulation-batch6-items126-150': echo-chamber-simulation-batch6-items126-150.md
-  - 'echo-chamber-simulation-batch7-items151-175': echo-chamber-simulation-batch7-items151-175.md
-  - 'echo-chamber-simulation-batch8-items176-200': echo-chamber-simulation-batch8-items176-200.md
-  - 'echo-chamber-simulation-batch9-items201-225': echo-chamber-simulation-batch9-items201-225.md
-  - 'echo-chamber-staged-vs-direct': echo-chamber-staged-vs-direct.md
-  - 'echo-chamber-website-cloning-guide': echo-chamber-website-cloning-guide.md
-  - 'jailbreak-techniques-examples': jailbreak-techniques-examples.md
-  - 'malicious-custom-gpt-system-prompts': malicious-custom-gpt-system-prompts.md
-  - 'other-jailbreak-techniques': other-jailbreak-techniques.md
-  - 'red-flag-questions-250-detection-guide': red-flag-questions-250-detection-guide.md
-  - 'supervisor-echo-chamber-simulation-guide': supervisor-echo-chamber-simulation-guide.md
+  - 'AI Jailbreaking Techniques': index.md
+  - 'Echo Chamber Jailbreak Technique – Detailed Explanation': echo-chamber-explanation-1.md
+  - 'Echo Chamber Jailbreak Recognition Guide – AI System Exploitation (ChatGPT, Claude, Perplexity, Grok)': echo-chamber-ai-exploitation.md
+  - 'Jailbreak Techniques Recognition Guide – Beyond Echo Chamber': other-jailbreak-techniques.md
+  - 'Red‑Flag Questions That Typically Require Jailbreaking an AI (Detection Guide)': red-flag-questions-250-detection-guide.md
+  - 'Echo Chamber Jailbreak Recognition Guide – Digital Fraud & Game Exploitation': echo-chamber-fraud-games.md
+  - 'Echo Chamber Jailbreak Recognition Guide – General Use': echo-chamber-general-use.md
+  - 'Echo Chamber Jailbreak Recognition Guide – IT Focused': echo-chamber-reference-1.md
+  - 'Echo Chamber Jailbreak – Staged vs Direct Prompts (IT Context)': echo-chamber-staged-vs-direct.md
+  - 'Jailbreak Techniques Recognition Guide – Example-Driven': jailbreak-techniques-examples.md
+  - 'Malicious Custom GPT System Prompts – Echo Chamber Jailbreak Variants': malicious-custom-gpt-system-prompts.md
+  - 'Supervisor Guide – Echo Chamber Jailbreak Simulation Prompt': supervisor-echo-chamber-simulation-guide.md
+  - 'Echo Chamber Simulation Guide – Website Cloning Context': echo-chamber-website-cloning-guide.md
+  - 'Echo Chamber Simulation Guide – Part 1': echo-chamber-simulation-batch1-items1-25.md
+  - 'Echo Chamber Simulation Guide – Part 2': echo-chamber-simulation-batch2-items26-50.md
+  - 'Echo Chamber Simulation Guide – Part 3': echo-chamber-simulation-batch3-items51-75.md
+  - 'Echo Chamber Simulation Guide – Part 4': echo-chamber-simulation-batch4-items76-100.md
+  - 'Echo Chamber Simulation Guide – Part 5': echo-chamber-simulation-batch5-items101-125.md
+  - 'Echo Chamber Simulation Guide – Part 6': echo-chamber-simulation-batch6-items126-150.md
+  - 'Echo Chamber Simulation Guide – Part 7': echo-chamber-simulation-batch7-items151-175.md
+  - 'Echo Chamber Simulation Guide – Part 8': echo-chamber-simulation-batch8-items176-200.md
+  - 'Echo Chamber Simulation Guide – Part 9': echo-chamber-simulation-batch9-items201-225.md
+  - 'Echo Chamber Simulation Guide – Part 10': echo-chamber-simulation-batch10-items226-250.md
 
