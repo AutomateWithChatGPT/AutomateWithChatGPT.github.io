@@ -1,0 +1,23 @@
+site_name: Automate With Jailbreaks
+site_description: Converted Word documents, published via MkDocs + GitHub Pages
+site_url: https://AutomateWithJailbreaks.github.io/
+repo_url: https://github.com/AutomateWithJailbreaks/AutomateWithJailbreaks.github.io
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+markdown_extensions:
+  - toc:
+      permalink: true
+  - admonition
+  - attr_list
+  - tables
+  - footnotes
+plugins:
+  - search
+# If you want explicit ordering, add a 'nav:' block later. Without it, MkDocs uses filesystem order.
+docs_dir: docs
